@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm WAQAS YOUNAS GUJJAR</h1>
 <h3 align="center">I am student of IT and learning about PYTHON,HTML,CSS,JS,DJANGO,FASTAPI,MYSQL.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4a61f6bdb188b3360eee252d06ee1515e1d99b6251fa3f530526744ce300e290/68747470733a2f2f692e696d6775722e636f6d2f6d5649723230372e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waqas-gujjar&label=Profile%20views&color=0e75b6&style=flat" alt="waqas-gujjar" /> </p>
 
