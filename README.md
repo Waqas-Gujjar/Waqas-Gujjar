@@ -12,8 +12,8 @@ A Software Engineer Passionate About Web Development Since I Was 17 Years Old. I
 
 ##  Technologies I Love🚀
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,bootstrap,html,css,vscode,github,tailwind,git,redis,azure,linux" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,express,nginx,docker,mongodb,kubernetes,mysql,postgresql,django,flask,fastapi,kafka" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,bootstrap,html,css,vscode,github,tailwind,git,redis,aws,linux" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,docker,mysql,postgresql,django,flask,fastapi,Drf" /><br>
 </div>
 
 
