@@ -7,7 +7,8 @@
   A Passionate Python-Django-Developer
 </h3>
 <br/>
-Hello! I’m Waqas Younas Gujja, a passionate Python Django developer with a strong foundation in building robust, scalable web applications. With a keen eye for detail and a commitment to writing clean, efficient code, I specialize in creating dynamic and user-friendly digital experiences. My expertise lies in leveraging Django’s powerful features to develop high-performance web solutions, from complex data-driven applications to intuitive user interfaces. I have a solid understanding of the full software development lifecycle, including requirements gathering, design, implementation, and deployment.
+Hello!I’m Waqas Younas Gujja,a passionate Python Django developer with a strong foundation in building robust, scalable web applications. With a keen eye for detail and a commitment to writing clean,efficient code, I specialize in creating dynamic and user-friendly digital experiences. My expertise lies in leveraging Django’s powerful features to develop high-performance websolutions, from complex data-driven applications to intuitive user interfaces. I have a solid understanding of the full software development lifecycle, including requirements gathering, design, 
+                                                                                    implementation, and deployment.
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Waqas-Gujjar/.Waqas-Gujjar/&left_color=red&right_color=green&left_text=Visitors" />
 
 ##  Technologies I Love🚀
