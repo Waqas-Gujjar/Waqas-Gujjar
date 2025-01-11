@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=24&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there!👋+I'm + Muhammad+Hashim" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=24&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there!👋+I'm + Waqas+Younas+Gujar" />
   </a>
 </h1>
 <h3 align="center">
@@ -18,10 +18,10 @@ A Software Engineer Passionate About Web Development Since I Was 17 Years Old. I
 
 
 ## Education 🎓
-* Bachelor's degree in Computer Science
-* Courses: Machine Learning, AI, Web3, and Metaverse.
+* Deploma: Information Technology(IT)
+* Courses: Python Language
 <br>Feel free to reach out if you're interested in collaborating on projects or for a free consultation.
 
 ## Contact 📫
-* Email: hashiimtahir@gmail.com
-* Linkedin: [LinkedIn](https://www.linkedin.com/in/hashimthepassionate/)
+* Email: wg4941792@gmail.com
+* Linkedin: [LinkedIn]()
