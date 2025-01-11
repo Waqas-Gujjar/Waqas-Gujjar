@@ -24,4 +24,4 @@ A Software Engineer Passionate About Web Development Since I Was 17 Years Old. I
 
 ## Contact 📫
 * Email: wg4941792@gmail.com
-* Linkedin: [LinkedIn]()
+* Linkedin: [LinkedIn](https://www.linkedin.com/in/waqas-younas-gujar/)
