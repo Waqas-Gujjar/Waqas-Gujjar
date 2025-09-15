@@ -1,8 +1,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=24&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there!👋+I'm + Waqas+Younas+Gujar" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=24&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Hi+there!👋;I'm+Waqas+Younas+Gujar" alt="Typing SVG" />
   </a>
 </h1>
+
 <h3 align="center">
   A Passionate Python-Django-Developer
 </h3>
