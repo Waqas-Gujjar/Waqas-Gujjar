@@ -19,9 +19,9 @@ implementation, and deployment.
 </div>
 
 
-## Education 🎓
-* Deploma: Information Technology(IT)
-* Courses: Python Language
+
+
+  
 <br>Feel free to reach out if you're interested in collaborating on projects or for a free consultation.
 
 ## Contact 📫
